@@ -1,0 +1,232 @@
+[
+   {
+        "client": "FCA",
+        "logo": "img/FCA-logo.jpg",
+        "projects": [
+            {
+                "name": "Empowerment of Women Entrepreneurs through Sustainable Income (EWESI) Project",
+                "link": "project1.html"
+            }
+        ]
+    },
+    {
+        "client": "HDCS",
+        "logo": "img/hdcs-logo.jpg",
+        "projects": [
+            {
+                "name": "Swastha, Surakshit ra Samriddha Rukum West (3SR) project",
+                "link": "project2.html"
+            },
+            {
+                "name": "Maternal and Child Health (MCH) project",
+                "link": "project3.html"
+            },
+            {
+                "name": "Improving Livelihood & Water, Sanitation and Hygiene (WALI) project",
+                "link": "project4.html"
+            }
+        ]
+    },
+    {
+        "client": "SathSath",
+        "logo": "img/sathsath.jpg",
+        "projects": [
+            {
+                "name": "Bridging formal schooling for street-connected children – “The Bridge” Project",
+                "link": "project5.html"
+            }
+        ]
+    },
+    {
+        "client": "TdH",
+        "logo": "img/TdH.svg",
+        "projects": [
+            {
+                "name": "Addressing Impacts of COVID on Efforts to Combat Transnational Trafficking in Persons (TIP)",
+                "link": "project6.html"
+            }
+        ]
+    },
+    {
+        "client": "Habitat for Humanity, Nepal",
+        "logo": "img/hfhnepal.jpg",
+        "projects": [
+            {
+                "name": "Shelter and Housing Pre-Crisis Market Analysis (S-PCMA)",
+                "link": "project7.html"
+            }
+        ]
+    },
+    {
+        "client": "American Red Cross",
+        "logo": "img/amredcross.jpeg",
+        "projects": [
+            {
+                "name": "Paschim Disaster Preparedness Project",
+                "link": "project8.html"
+            },
+            {
+                "name": "A Community and Disaster Risk Assessment of PREPARE",
+                "link": "project9.html"
+            },
+            {
+                "name": "PREPARE",
+                "link": "project10.html"
+            }
+        ]
+    },
+    {
+        "client": "Strømme Foundation",
+        "logo": "img/stromme-logo.png",
+        "projects": [
+            {
+                "name": "Value Chain Development Training to The Partner Staffs of Strømme Foundation",
+                "link": "project11.html"
+            },
+            {
+                "name": "Disaster Risk Reduction (DRR) Management and Climate Change Adaptation Training",
+                "link": "project12.html"
+            },
+            {
+                "name": "Building Empowered and Resilient Communities by Strengthening Livelihoods, Inclusion, Education and Food Security (BELIEF) in Nepal",
+                "link": "new-project1.html"
+            }    
+        ]
+    },
+    {
+        "client": "Good Neighbors International",
+        "logo": "img/GNI.png",
+        "projects": [
+            {
+                "name": "Inclusive Rural Development Project",
+                "link": "project13.html"
+            }
+        ]
+    },
+    {
+        "client": "Provincial Policy and Planning Commission, Gandaki Province",
+        "logo": "img/gandaki-logo.jpg",
+        "projects": [
+            {
+                "name": "Study for Model Farm of Agricultural Farms and Animal Husbandry Program",
+                "link": "project14.html"
+            }
+        ]
+    },
+    {
+        "client": "Ministry of Labor, Employment and Social Security Nepal",
+        "logo": "img/gon-mem.jpg",
+        "projects": [
+            {
+                "name": "Training for Trainers on Menstrual Hygiene Management (MHM)",
+                "link": "project15.html"
+            }
+        ]
+    },
+    {
+        "client": "ACT Alliance Nepal",
+        "logo": "img/actalliance.jpeg",
+        "projects": [
+            {
+                "name": "Nepal Earthquake Recovery, Reconstruction and Resilience (3R)",
+                "link": "project16.html"
+            }
+        ]
+    },
+    {
+        "client": "Water AID",
+        "logo": "img/wateraid.jpeg",
+        "projects": [
+            {
+                "name": "Ensuring Girls Rights Through School Based WASH and Improved Menstrual Hygiene Management (MHM)",
+                "link": "project18.html"
+            },
+            {
+                "name": "Ensuring Universal WASH rights in Nepal",
+                "link": "project17.html"
+            }
+        ]
+    },
+    {
+        "client": "Kirtipur Municipality",
+        "logo": "img/kirtipur-logo.jpg",
+        "projects": [
+            {
+                "name": "Capacity development program of Gender equality and environment and social security",
+                "link": "project19.html"
+            }
+        ]
+    },
+    {
+        "client": "Oriental Consultants Global Co. Ltd.",
+        "logo": "img/ocglobal.jpg",
+        "projects": [
+            {
+                "name": "Capacity development program of ESMS-related environmental safeguard (housing- sector)",
+                "link": "project20.html"
+            },
+            {
+                "name": "Follow up program – capacity development program of ESMS-related environmental safeguard (School- Sector)",
+                "link": "project21.html"
+            },
+            {
+                "name": "Capacity development program of ESMS-related environmental safeguard (School- Sector)",
+                "link": "project22.html"
+            }
+        ]
+    },
+    {
+        "client": "Ministry of Agriculture and Livestock Development",
+        "logo": "img/ministry.png",
+        "projects": [
+            {
+                "name": "Promoting ground apple farming, processing and marketing",
+                "link": "project23.html"
+            }
+        ]
+    },
+    {
+        "client": "NRNA Qatar",
+        "logo": "img/nrna-qatar.png",
+        "projects": [
+            {
+                "name": "Disaster relief program and distributed relief packages",
+                "link": "project24.html"
+            }
+        ]
+    },
+    {
+        "client": "Nepal Japan Association of Miyazaki",
+        "logo": "img/njfa.jpg",
+        "projects": [
+            {
+                "name": "Earthquake relief program (distributed school dress and warm clothes to student)",
+                "link": "project25.html"
+            }
+        ]
+    },
+    {
+        "client": "Germany Charity Group",
+        "logo": "img/gcg.png",
+        "projects": [
+            {
+                "name": "Earthquake relief program (distributed school dress and warm clothes to student)",
+                "link": "project26.html"
+            }
+        ]
+    },
+    {
+        "client": "New Client",
+        "logo": "img/new-client-logo.jpg",
+        "projects": [
+            {
+                "name": "New Project 1",
+                "link": "new-project1.html"
+            },
+            {
+                "name": "New Project 2",
+                "link": "new-project2.html"
+            }
+        ]
+    }
+]

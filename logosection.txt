@@ -1,0 +1,21 @@
+const clientLogos = {
+    "FCA": "img/placeholder.png",
+    "HDCS": "img/placeholder.png",
+    "SathSath": "img/placeholder.png",
+    "TdH": "img/placeholder.png",
+    "Habitat for Humanity, Nepal": "img/placeholder.png",
+    "American Red Cross": "img/placeholder.png",
+    "Strømme Foundation": "img/placeholder.png",
+    "Good Neighbors International": "img/placeholder.png",
+    "Provincial Policy and Planning Commission, Gandaki Province": "img/placeholder.png",
+    "Ministry of Labor, Employment and Social Security Nepal": "img/placeholder.png",
+    "ACT Alliance Nepal": "img/placeholder.png",
+    "Water AID Nepal": "img/placeholder.png",
+    "Water AID (UK) in Nepal": "img/placeholder.png",
+    "Kirtipur Municipality": "img/placeholder.png",
+    "Oriental Consultants Global Co. Ltd.": "img/placeholder.png",
+    "Ministry of Agriculture and Livestock Development": "img/placeholder.png",
+    "NRNA Qatar": "img/placeholder.png",
+    "Nepal Japan Association of Miyazaki": "img/placeholder.png",
+    "Germany Charity Group": "img/placeholder.png"
+};

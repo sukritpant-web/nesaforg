@@ -1,0 +1,143 @@
+{
+  "management": [
+    {
+      "name": "Bharat Prasad Nepal",
+      "position": "Chief Executive Officer",
+      "contact": "bharat.nepal@nesaf.org.np",
+      "bio": "With over 20 years experienced professional in development studies, value chain, private sector engagement, climate change, DRR, employing inclusive approaches. Proven record of delivering high-quality work, driving positive change, and promoting team building. Specializes in rural development, livelihood, climate-smart technology, sustainable enterprises, and community-oriented marketing.",
+      "image": "img/Bharat_Nepal.jpeg"
+    },
+    {
+      "name": "Bishnu Prasad Pandey",
+      "position": "Director of Operations",
+      "contact": "bishnu.pandey@nesaf.org.np",
+      "bio": "He has over 18 years of professional experience working in different capacities in the development sector with the national and international organizations, private companies and government line agencies in administrative and program related tasks.",
+      "image": "img/Bishnu_pandey.jpeg"
+    }
+  ],
+  "board_of_directors": [
+    {
+      "name": "Kamala Devi Sharma",
+      "position": "Chairperson",
+      "bio": "Kamala Devi Sharma has accumulated 22 years of experience specializing in natural resource management (NRM) and institutional development. Throughout her career, she has focused on empowering women in community forests, recognizing their crucial role in sustainable resource management and environmental stewardship. Her work involved designing and implementing initiatives that promote women's leadership and participation in forest governance, ensuring they have a voice in decision-making processes that affect their livelihoods and resources.",
+      "image": "img/Kamala_Sharma.jpeg"
+    },
+    {
+      "name": "Chitra Bahadur Baniya, Phd",
+      "position": "Executive Member",
+      "bio": "Dr Baniya holds both a Master's and a PhD in quantitative plant ecology from Norway, offering a robust foundation for his ecological research. With over a decade of experience as a key member of the Environmental Impact Assessment (EIA) Committee for the Government of Nepal, he has made significant contributions to sustainable biodiversity management. Known for his humility and approachability, Dr. Baniya's expertise effectively bridges the gap between environmental stewardship and developmental needs. He strongly emphasizes the importance of plant diversity, recognizing its ecological and aesthetic value in our ecosystems.",
+      "image": "img/Chitra.jpeg"
+    },
+    {
+      "name": "Rajendra Prasad Ghimire",
+      "position": "Executive Member",
+      "bio": "Rajendra Prasad Gimire is a seasoned public relations expert dedicated to fostering self-employment opportunities and empowering individuals to achieve their career goals. With nearly twenty years of extensive experience in education and development, Rajendra has cultivated a deep understanding of various pedagogical methods and strategies that promote learning and growth. His passion for language education is evident in his exceptional proficiency in Japanese, enabling him to effectively bridge cultural and communication gaps.",
+      "image": "img/Rajendra.jpeg"
+    },
+    {
+      "name": "Bhimprakash Khadka ",
+      "position": "Executive Member",
+      "bio": "Bhimprakash Khada has nearly thirty years of dedicated experience in community forestry management, during which he has played a significant role in both community-based forest management and the development of relevant institutions. His work has involved collaborating with local communities to implement sustainable forestry practices, ensuring the preservation of natural resources while empowering community members. Through such efforts, he had contributed to advancing community forestry initiatives that promote environmental stewardship and social well-being.",
+      "image": "img/Bhim.jpeg"
+    },
+    {
+      "name": "Krishna Adhikari",
+      "position": "Executive Member",
+      "bio": "Krishna Adhikari is an experienced educator and leader with 27 years in education and community development. Holding an M. Phil in Educational Leadership and master's degrees in Sociology and Public Administration, he has led schools and trained future leaders. Krishna also drives community initiatives through NGOs, focusing on empowerment and sustainable development. His expertise in leadership, policy-making, and planning makes him a catalyst for meaningful change in any organization or community.",
+      "image": "img/Krishna_Adhikari.jpeg"
+    },
+    {
+      "name": "Sharada Adhikari",
+      "position": "General Member",
+      "bio": "Sharada Adhikari is a skilled professional with a background in forestry and rural development. Holding a Bachelor's in Forestry and a Master's in Rural Development, she excels in project leadership, coordination, and planning. With extensive research experience, particularly in forestry, Sharada has successfully managed projects from start to finish. Her strong interpersonal skills enable her to build effective collaborations, making her a valuable asset to any team focused on rural development and environmental conservation.",
+      "image": "img/Sharada_Adhikari.jpeg"
+    }
+  ],
+  "advisors": [
+    {
+      "name": "Bibhuti Bista",
+      "position": "Senior Advisor",
+      "contact": "bibhuti.bista@nesaf.org.np",
+      "bio": "He is a proactive and decisive team leader with anthropological and phenomenological understanding. Bibhuti is conscientious, solution-oriented, and efficiently handles any last-minute priorities. He is also a genial team player.",
+      "image": "img/Bibhuti_Bista.jpeg"
+    }
+  ],
+  "experts": [
+    {
+      "name": "Anita Shrestha, PhD",
+      "field": "GEDSI"
+    },
+    {
+      "name": "Rajendra Paudel, PhD",
+      "field": "Civil Engineering"
+    },
+    {
+      "name": "Alok Prasai, PhD",
+      "field": "Senior Tourism Expert"
+    },
+    {
+      "name": "Bishnu Kumar Sinjali, PhD",
+      "field": "Health"
+    },
+    {
+      "name": "Mohan Raj Sharma",
+      "field": "Senior Governance Expert"
+    },
+    {
+      "name": "Kedar P. Bhattarai",
+      "field": "Senior DRR Expert"
+    },
+    {
+      "name": "Rupendra Basnet",
+      "field": "DRR and Climate Change Expert"
+    },
+    {
+      "name": "Bhupendra Rana",
+      "field": "Agriculture and Enterprise Development Expert"
+    },
+    {
+      "name": "Bhola Koirala",
+      "field": "Statistician and Data Analyst"
+    },
+    {
+      "name": "Bal Krishna Thapa",
+      "field": "Livelihood Value Chain Expert"
+    },
+    {
+      "name": "Rita Khatiwada",
+      "field": "Disability and Inclusion Expert"
+    },
+    {
+      "name": "Alok Baral, Er.",
+      "field": "Renewable Energy and Irrigation Expert"
+    },
+    {
+      "name": "Uttar Kumar Parajuli",
+      "field": "EGRA, CBEGRA and ECED Expert"
+    },
+    {
+      "name": "Uma Ghimire Acharya",
+      "field": "Early Child Development Expert"
+    },
+    {
+      "name": "Yubraj Dhakal",
+      "field": "EIA Expert"
+    },
+    {
+      "name": "Rameshwor Khadka",
+      "field": "MEAL"
+    },
+    {
+      "name": "Ishwar Shrestha",
+      "field": "Livelihood/Agriculture"
+    },
+    {
+      "name": "Sudeep Pokharel",
+      "field": "Statistician"
+    },
+    {
+      "name": "Sukrit Pant",
+      "field": "Data Governance"
+    }
+  ]
+}
