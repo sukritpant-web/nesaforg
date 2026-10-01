@@ -90,7 +90,7 @@
             {
                 "name": "Building Empowered and Resilient Communities by Strengthening Livelihoods, Inclusion, Education and Food Security (BELIEF) in Nepal",
                 "link": "new-project1.html"
-            }    
+            }
         ]
     },
     {
@@ -212,20 +212,6 @@
             {
                 "name": "Earthquake relief program (distributed school dress and warm clothes to student)",
                 "link": "project26.html"
-            }
-        ]
-    },
-    {
-        "client": "New Client",
-        "logo": "img/new-client-logo.jpg",
-        "projects": [
-            {
-                "name": "New Project 1",
-                "link": "new-project1.html"
-            },
-            {
-                "name": "New Project 2",
-                "link": "new-project2.html"
             }
         ]
     }
