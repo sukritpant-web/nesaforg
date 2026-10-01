@@ -425,15 +425,15 @@ main.container {
 }
 
 .scroll-container {
-    display: flex;
-    overflow-x: hidden;
-    white-space: nowrap;
+    overflow: hidden;
     position: relative;
     width: 100%;
 }
 
 .scroll-content {
     display: flex;
+    width: max-content;
+    will-change: transform;
 }
 
 .client-card {
@@ -972,10 +972,6 @@ main.container {
 
     .vision-mission-objectives-section {
         flex-direction: column;
-    }
-
-    .scroll-container {
-        justify-content: center;
     }
 
     .footer-section {
